@@ -549,7 +549,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output 1](laprak5-1.jpg)
+![Output 1](laprak5-1.jpeg)
 
 Program C++ ini mengimplementasikan Singly Linked List dalam tiga file: Singlylist.h, Singlylist.cpp, dan main.cpp.
 
